@@ -1,8 +1,8 @@
-# UI Design Skills (`ui-design`)
+# UI Design (`ui-design`)
 
 [![Skills.sh Compatible](https://img.shields.io/badge/skills.sh-compatible-10b981?style=flat-square)](https://skills.sh)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Ravizikrillah/ui-design-skills/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Ravizikrillah/ui-design/pulls)
 
 An elite, unified UI/UX design and frontend engineering skill for AI coding agents (Claude Code, Cursor, Windsurf, Codex, Antigravity, and Gemini CLI).
 
@@ -15,12 +15,12 @@ It eliminates the generic, uninspired output typical of AI-generated frontends b
 Install directly into your AI coding assistant with the [skills.sh](https://skills.sh) CLI:
 
 ```bash
-npx skills add Ravizikrillah/ui-design-skills
+npx skills add Ravizikrillah/ui-design
 ```
 
 Or install via specific skill flag:
 ```bash
-npx skills add Ravizikrillah/ui-design-skills --skill ui-design
+npx skills add Ravizikrillah/ui-design --skill ui-design
 ```
 
 ---
@@ -104,7 +104,7 @@ When an agent executes this skill, it follows a strict 5-phase loop:
 ## 📂 Repository Structure
 
 ```
-ui-design-skills/
+ui-design/
 ├── SKILL.md                          # Root skill manifest for instant `npx skills add`
 ├── skills/
 │   └── ui-design/

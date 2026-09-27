@@ -240,3 +240,15 @@ Before declaring any design task complete, verify every item:
 - [ ] **Touch Targets:** Minimum 44px on mobile; `touch-action: manipulation` applied? (R-03)
 - [ ] **Mobile Collapse:** Explicit single-column fallback on `< 768px`; zero horizontal scrollbar bugs?
 - [ ] **Playwright Verification:** DOM snapshot inspected; responsive screenshots reviewed? (R-35)
+
+---
+
+## Reference Guides
+
+* [`references/anti-slop-rules.md`](../../references/anti-slop-rules.md) — Complete 38-rule catalog, Craftsmanship Standard (C-1 to C-5), and Dual-Mode guide.
+* [`references/web-interface-guidelines.md`](../../references/web-interface-guidelines.md) — Complete Vercel accessibility, forms, performance, and hydration rules.
+* [`references/image-to-code-workflow.md`](../../references/image-to-code-workflow.md) — Section image generation prompts, extraction sheets, and translation steps.
+* [`references/design-md-specification.md`](../../references/design-md-specification.md) — Full specification for creating and reading `DESIGN.md` contracts.
+* [`references/playwright-verification.md`](../../references/playwright-verification.md) — Playwright CLI commands, headless verification scripts, and automated visual testing.
+* [`templates/DESIGN.md`](../../templates/DESIGN.md) — Production-ready `DESIGN.md` starter template.
+

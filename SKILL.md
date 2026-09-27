@@ -245,9 +245,9 @@ Before declaring any design task complete, verify every item:
 
 ## Reference Guides
 
-* [`references/anti-slop-rules.md`](file:///Users/ravi/Project/tools/ui-design-skills/references/anti-slop-rules.md) — Complete 38-rule catalog, Craftsmanship Standard (C-1 to C-5), and Dual-Mode guide.
-* [`references/web-interface-guidelines.md`](file:///Users/ravi/Project/tools/ui-design-skills/references/web-interface-guidelines.md) — Complete Vercel accessibility, forms, performance, and hydration rules.
-* [`references/image-to-code-workflow.md`](file:///Users/ravi/Project/tools/ui-design-skills/references/image-to-code-workflow.md) — Section image generation prompts, extraction sheets, and translation steps.
-* [`references/design-md-specification.md`](file:///Users/ravi/Project/tools/ui-design-skills/references/design-md-specification.md) — Full specification for creating and reading `DESIGN.md` contracts.
-* [`references/playwright-verification.md`](file:///Users/ravi/Project/tools/ui-design-skills/references/playwright-verification.md) — Playwright CLI commands, headless verification scripts, and automated visual testing.
-* [`templates/DESIGN.md`](file:///Users/ravi/Project/tools/ui-design-skills/templates/DESIGN.md) — Production-ready `DESIGN.md` starter template.
+* [`references/anti-slop-rules.md`](references/anti-slop-rules.md) — Complete 38-rule catalog, Craftsmanship Standard (C-1 to C-5), and Dual-Mode guide.
+* [`references/web-interface-guidelines.md`](references/web-interface-guidelines.md) — Complete Vercel accessibility, forms, performance, and hydration rules.
+* [`references/image-to-code-workflow.md`](references/image-to-code-workflow.md) — Section image generation prompts, extraction sheets, and translation steps.
+* [`references/design-md-specification.md`](references/design-md-specification.md) — Full specification for creating and reading `DESIGN.md` contracts.
+* [`references/playwright-verification.md`](references/playwright-verification.md) — Playwright CLI commands, headless verification scripts, and automated visual testing.
+* [`templates/DESIGN.md`](templates/DESIGN.md) — Production-ready `DESIGN.md` starter template.
