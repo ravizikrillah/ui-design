@@ -241,5 +241,10 @@ Before declaring any design task complete, the agent verifies:
 
 ---
 
+## 🤝 Contributing
+Contributions are always welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on submitting anti-slop rules, design templates, and verification improvements.
+
+---
+
 ## 📄 License
 MIT © [Ravi Zikrillah](https://github.com/ravizikrillah)
